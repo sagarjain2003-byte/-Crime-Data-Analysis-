@@ -1,0 +1,21 @@
+Crime_ID,City,State,Crime_Type,Date,Victim_Age,Victim_Gender,Status,Police_Station,Officer_Assigned,Case_Priority,Estimated_Loss_INR
+1,Delhi,Delhi,Theft,2024-01-15,28,Male,Solved,Connaught Place,Inspector Sharma,Medium,15000
+2,Mumbai,Maharashtra,Fraud,2024-01-20,35,Female,Pending,Andheri East,Inspector Patil,High,250000
+3,Jaipur,Rajasthan,Robbery,2024-02-03,42,Male,Solved,Mansarovar,Inspector Singh,High,80000
+4,Lucknow,Uttar Pradesh,Assault,2024-02-11,30,Female,Pending,Hazratganj,Inspector Khan,Medium,0
+5,Hyderabad,Telangana,Cyber Crime,2024-02-18,24,Male,Under Investigation,Madhapur,Inspector Reddy,High,450000
+6,Pune,Maharashtra,Vehicle Theft,2024-03-01,39,Male,Solved,Shivajinagar,Inspector Jadhav,Medium,320000
+7,Chennai,Tamil Nadu,Burglary,2024-03-05,46,Female,Pending,T Nagar,Inspector Kumar,High,600000
+8,Kolkata,West Bengal,Snatching,2024-03-10,21,Male,Solved,Park Street,Inspector Das,Low,12000
+9,Noida,Uttar Pradesh,Cyber Crime,2024-03-18,27,Female,Under Investigation,Sector 18,Inspector Verma,High,900000
+10,Gurugram,Haryana,Fraud,2024-03-25,33,Male,Solved,DLF Phase 2,Inspector Yadav,Medium,175000
+11,Delhi,Delhi,Cyber Crime,2024-04-01,29,Female,Pending,Rohini,Inspector Sharma,High,350000
+12,Mumbai,Maharashtra,Theft,2024-04-07,50,Male,Solved,Bandra,Inspector Patil,Low,10000
+13,Indore,Madhya Pradesh,Assault,2024-04-12,37,Female,Pending,Vijay Nagar,Inspector Chauhan,Medium,0
+14,Bhopal,Madhya Pradesh,Fraud,2024-04-20,44,Male,Solved,MP Nagar,Inspector Mishra,High,275000
+15,Surat,Gujarat,Robbery,2024-05-02,31,Female,Under Investigation,Adajan,Inspector Patel,High,95000
+16,Kanpur,Uttar Pradesh,Vehicle Theft,2024-05-09,26,Male,Pending,Swaroop Nagar,Inspector Gupta,Medium,420000
+17,Patna,Bihar,Burglary,2024-05-15,53,Female,Solved,Kankarbagh,Inspector Sinha,High,700000
+18,Delhi,Delhi,Snatching,2024-05-21,22,Male,Solved,Saket,Inspector Sharma,Low,8000
+19,Hyderabad,Telangana,Fraud,2024-05-30,41,Female,Pending,Gachibowli,Inspector Reddy,Medium,120000
+20,Pune,Maharashtra,Cyber Crime,2024-06-05,36,Male,Under Investigation,Hinjewadi,Inspector Jadhav,High,650000
